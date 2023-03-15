@@ -1,0 +1,15 @@
+C:\Users\Aluno\Desktop\EXERCÍCIOALUNOS\bin\Debug\net7.0\EXERCÍCIOALUNOS.exe
+C:\Users\Aluno\Desktop\EXERCÍCIOALUNOS\bin\Debug\net7.0\EXERCÍCIOALUNOS.deps.json
+C:\Users\Aluno\Desktop\EXERCÍCIOALUNOS\bin\Debug\net7.0\EXERCÍCIOALUNOS.runtimeconfig.json
+C:\Users\Aluno\Desktop\EXERCÍCIOALUNOS\bin\Debug\net7.0\EXERCÍCIOALUNOS.dll
+C:\Users\Aluno\Desktop\EXERCÍCIOALUNOS\bin\Debug\net7.0\EXERCÍCIOALUNOS.pdb
+C:\Users\Aluno\Desktop\EXERCÍCIOALUNOS\obj\Debug\net7.0\EXERCÍCIOALUNOS.csproj.AssemblyReference.cache
+C:\Users\Aluno\Desktop\EXERCÍCIOALUNOS\obj\Debug\net7.0\EXERCÍCIOALUNOS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\Desktop\EXERCÍCIOALUNOS\obj\Debug\net7.0\EXERCÍCIOALUNOS.AssemblyInfoInputs.cache
+C:\Users\Aluno\Desktop\EXERCÍCIOALUNOS\obj\Debug\net7.0\EXERCÍCIOALUNOS.AssemblyInfo.cs
+C:\Users\Aluno\Desktop\EXERCÍCIOALUNOS\obj\Debug\net7.0\EXERCÍCIOALUNOS.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Desktop\EXERCÍCIOALUNOS\obj\Debug\net7.0\EXERCÍCIOALUNOS.dll
+C:\Users\Aluno\Desktop\EXERCÍCIOALUNOS\obj\Debug\net7.0\refint\EXERCÍCIOALUNOS.dll
+C:\Users\Aluno\Desktop\EXERCÍCIOALUNOS\obj\Debug\net7.0\EXERCÍCIOALUNOS.pdb
+C:\Users\Aluno\Desktop\EXERCÍCIOALUNOS\obj\Debug\net7.0\EXERCÍCIOALUNOS.genruntimeconfig.cache
+C:\Users\Aluno\Desktop\EXERCÍCIOALUNOS\obj\Debug\net7.0\ref\EXERCÍCIOALUNOS.dll
