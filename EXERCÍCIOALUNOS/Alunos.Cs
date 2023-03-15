@@ -25,7 +25,7 @@ class Alunos
     public void mensagem(){
         double MediaCalculada = obterMedia();
         string resultadoSituacao = obterSituacao(MediaCalculada);
-        Console.WriteLine(nome+" está " +resultadoSituacao+" com média:" + MediaCalculada);
+        Console.WriteLine(nome+" está " +resultadoSituacao+" com média:6" + MediaCalculada);
     
    } 
 
